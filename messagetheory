@@ -1,0 +1,10 @@
+crud operation:
+c========== create - > insert
+r=> read
+u=>update
+d=>delete
+ form
+ ======
+ name:itvedant
+ rno:80
+ save         view.py(fetch from front end)            model (insert data to database)
